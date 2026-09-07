@@ -4,6 +4,11 @@ Bu proje; STM32F103C8 (ARM Cortex-M3) mikrodenetleyicisi mimarisi üzerine kurul
 
 ---
 
+## 📷 Proje Görselleri
+
+![STM32 RC Kumanda 1](kumanda1.jpeg)
+![STM32 RC Kumanda 2](kumanda2.jpeg)
+
 ## 📌 Mimari ve Sistem Özellikleri
 
 - **İşlemci & Donanım:** STM32F103C8 (ARM Cortex-M3) mikrodenetleyicisi ile düşük gecikmeli sinyal işleme.
